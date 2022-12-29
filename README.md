@@ -1,1 +1,1 @@
-# GitHub oAuth authrization frontend code 
+# GitHub oAuth authorization frontend code  
