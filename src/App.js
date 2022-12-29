@@ -40,7 +40,7 @@ function App() {
     }
   }, [])
 
-  const getUserData = async (req, res) =>{
+  const getUserData = async () =>{
       
     const config = {
     headers: { 
